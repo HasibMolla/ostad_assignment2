@@ -44,7 +44,7 @@ class ProfilePage extends StatelessWidget {
           ),
           ProfileItem(
             icon: Icons.egg,
-            text: 'Eggs are a great source of protein',
+            text: 'If you submit code directly copy from Chatgpt then mark will 0',
           ),
         ],
       ),
